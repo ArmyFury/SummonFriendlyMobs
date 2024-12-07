@@ -7,15 +7,15 @@
 ### Commands Usage:
 
 ```MCFUNCTION
-/summonfriendlymob <mob_type> [<x> <y> <z>} {NBT_data} **:** Summons a friendly mob
+/summonfriendlymob <mob_type> [<x> <y> <z>} {NBT_data} # Summons a friendly mob
 
-/givespawnegg <player> <mob_type> [amount] **:** Gives special spwan egg to a player
+/givespawnegg <player> <mob_type> [amount] # Gives special spwan egg to a player
 
-/attack <target player name | target mob uuid> **:** Attacks given player or a mob
+/attack <target player name | target mob uuid> # Attacks given player or a mob
 
-/mobs **:** Gives a list of friendly mobs of the player 
+/mobs # Gives a list of friendly mobs of the player 
 
-/sfmreload **:** Reload the plugin
+/sfmreload # Reload the plugin
 ```
 
 ### Alias:
