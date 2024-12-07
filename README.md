@@ -2,7 +2,7 @@
 
 ## A minecraft plugin which allows you to summon hostile mobs which do not attack the player who summoned it.
 
-### Downloads: [Modrinth](https://modrinth.com/plugins/summonfriendlymobs)
+### Downloads: [Modrinth](https://modrinth.com/plugin/summonfriendlymobs)
 
 ### Commands Usage:
 
