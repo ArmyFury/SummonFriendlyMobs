@@ -7,7 +7,7 @@
 ### Commands Usage:
 
 
-/summonfriendlymob <mob_type> \[<x> <y> <z>\] {NBT_data} **:** Summons a friendly mob
+/summonfriendlymob <mob_type> <x> <y> <z> {NBT_data} **:** Summons a friendly mob
 
 /givespawnegg <player> <mob_type> [amount] **:** Gives special spwan egg to a player
 
