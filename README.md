@@ -27,7 +27,7 @@
 only put mob **NAME** in <mob_type>.
 
 Example:
-```
+```MCFUNCTION
    ✅ /summonfriendlymob blaze
    ✅ /sfm blaze
    ✅ /givespecialspawnegg @s blaze
