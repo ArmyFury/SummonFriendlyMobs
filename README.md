@@ -6,8 +6,8 @@
 
 ### Commands Usage:
 
-
-/summonfriendlymob <mob_type> <x> <y> <z> {NBT_data} **:** Summons a friendly mob
+```MCFUNCTION
+/summonfriendlymob <mob_type> [<x> <y> <z>} {NBT_data} **:** Summons a friendly mob
 
 /givespawnegg <player> <mob_type> [amount] **:** Gives special spwan egg to a player
 
@@ -16,6 +16,7 @@
 /mobs **:** Gives a list of friendly mobs of the player 
 
 /sfmreload **:** Reload the plugin
+```
 
 ### Alias:
 
