@@ -87,7 +87,7 @@ Some mobs are hostile even to the players who summoned them:
   - Initial slime/magma cube which is spawned is not hostile but the offsprings of the slime/magma cube are hostile
 
 
-You can reach out to me in my https://discordapp.com/aEc7yqecYn. [Discord ID - armyfury]
+You can reach out to me in my [![Discord](https://img.shields.io/discord/342814924310970398?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discordapp.com/invite/aEc7yqecYn). [Discord ID - armyfury]
 
 ### Other projects:
   - [WoolBurner](https://modrinth.com/plugin/woolburner)
