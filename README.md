@@ -77,7 +77,7 @@ The file `summonerMap.dat` holds data for friendliness of mobs and `warden_data.
 Some mobs are hostile even to the players who summoned them:
   - Warden (Fixed in versions 2.0 and above)
   - Zoglin
-  - Pufferfish
+  - Pufferfish (Fixed in 3.0+)
   - Ender Dragon 
   - Guardian & Elder Guardian (Thorns) (Fixed in 2.1)
   - Any mob which was originally not hostile but got converted to a different mob (example: non hostile zombie converts to hostile drowned) (Fixed in 2.1)
@@ -85,10 +85,6 @@ Some mobs are hostile even to the players who summoned them:
 
 
 You can reach out to me in my [discord server](https://discord.gg/aEc7yqecYn). [Discord ID - armyfury]
-
-**Data Collection**
-
-The plugin collects data through bStats and all data sent is anonymous. This has negligible impact on performance and helps me and other developers learn how their plugins are used and what is to be improved. All the data collected by the plugin can be viewed publically [here](https://bstats.org/plugin/bukkit/SummonFriendlyMobs/23162).
 
 ### Other projects:
   - [WoolBurner](https://modrinth.com/plugin/woolburner)
