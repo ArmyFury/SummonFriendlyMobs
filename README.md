@@ -59,6 +59,8 @@ SaveWardenFriendliness: false # Toggle whether to keep friendliness of the warde
 UpdateNotifier: true # Toggle whether to notify for newer versions of the plugin
 AllowAttack: true # Toggle whether to allow players to use /attack command or not
 AllowCustomMobSettings: false # Toggle whether to use settings for mobs from mobs.yml or not
+Taming: false # Toggle whether to allow Taming
+bStats: true # Toggle whether to send bStats data
 ```
 
 `WardenCheckInterval` is the number of ticks after which anger of wardens is cleared, higher number will result in lower number of checks and the wardens may attack the summoners. This should not affect the performance a lot. This does not apply to any other mob. Wardens are pacified differently due to how they sense and attack players.
